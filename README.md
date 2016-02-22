@@ -2,7 +2,7 @@
 
 **Grandma's Tombola** is an academic project developed on my own for an exam I
 attended. I was asked to create a distributed version of Tombola, a well-know
-italian game (see [Wikipedia entry](https://en.wikipedia.org/wiki/Tombola_(raffle))
+italian game (see [Wikipedia entry](https://en.wikipedia.org/wiki/Tombola_(raffle)))
 similar to Bingo.
 
 ![Grandma's Tombola Home image](https://raw.githubusercontent.com/lippol94/grandma-s-tombola/master/ui/background_1.png)
