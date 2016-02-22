@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['sec_5fmillis',['SEC_MILLIS',['../constants_8h.html#ac2b9a6cbb4f9eb7aced7e6280c2308c9',1,'constants.h']]],
+  ['selected_5fn_5fset',['selected_n_set',['../struct__gameplay__references.html#ad072639a894a864939a7350c35051ec4',1,'_gameplay_references']]],
+  ['send_5fgame_5fname',['send_game_name',['../struct__launcher__references.html#a2772f280b3faba49caff1472576ecb52',1,'_launcher_references']]],
+  ['send_5fgame_5fname_5fbt_5fhandler',['send_game_name_bt_handler',['../main__app__controller_8h.html#a536d7ce3a9efb12ac2b9b80ad7bd90eb',1,'main_app_controller.c']]],
+  ['server_5faddress',['SERVER_ADDRESS',['../constants_8h.html#aa6cecb8c404241c624e83aee8a3979d2',1,'constants.h']]],
+  ['server_5fport',['SERVER_PORT',['../constants_8h.html#ac42367fe5c999ec6650de83e9d72fe8c',1,'constants.h']]],
+  ['server_5ftv',['server_tv',['../struct__gameplay__references.html#af76f5f50a1d1576fdddbcc77e091706f',1,'_gameplay_references']]],
+  ['socket',['socket',['../struct__socket__connection.html#a3f8132a790a9622947e74413857d1aa6',1,'_socket_connection::socket()'],['../struct__interface__references.html#a3f8132a790a9622947e74413857d1aa6',1,'_interface_references::socket()']]],
+  ['socket_5fconnection',['socket_connection',['../struct__player.html#a01c0818e612fabc1525ac312385cccf6',1,'_player']]],
+  ['socket_5fconnection_5ft',['socket_connection_t',['../gameplay__lib_8h.html#ade630305ccb391b5a975f92f5b4db512',1,'gameplay_lib.h']]],
+  ['socket_5fmessage_5ft',['socket_message_t',['../gameplay__lib_8h.html#a14fe8ce61e8ea50116104e1acd527853',1,'gameplay_lib.h']]],
+  ['socket_5fsource',['socket_source',['../struct__socket__connection.html#a0ddabccf6895be7f2496d0b86c35c350',1,'_socket_connection']]],
+  ['sort_5fextracted_5fnums',['sort_extracted_nums',['../gameplay__lib_8h.html#a3686dd26d3aaf6fb14fb04f3fc182b4c',1,'gameplay_lib.c']]],
+  ['start_5fgame_5fbt',['start_game_bt',['../struct__launcher__references.html#ad1e13581b7c3245e8bf7a18de5fc0b3b',1,'_launcher_references']]],
+  ['start_5fgame_5fbt_5fhandler',['start_game_bt_handler',['../main__app__controller_8h.html#ad9904c9978e5e784989324c9ce653cbe',1,'main_app_controller.c']]],
+  ['start_5fgame_5fcode',['START_GAME_CODE',['../constants_8h.html#a3f956aa8915c0d0650ec91e7e5e1b0b9',1,'constants.h']]],
+  ['startup_5fhandler',['startup_handler',['../main__app__controller_8h.html#a97ba2e9207d3ad195707dd847161f053',1,'main_app_controller.c']]],
+  ['strtokenizer',['strtokenizer',['../utility__lib_8h.html#a43a794af66f308a896e2f908f754dea3',1,'utility_lib.c']]],
+  ['switch_5fpage_5fhandler',['switch_page_handler',['../main__app__controller_8h.html#ac392b3a68cb7be7defef5472ee56dae1',1,'main_app_controller.c']]]
+];

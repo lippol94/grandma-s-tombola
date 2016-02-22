@@ -1,0 +1,79 @@
+/* Classes' styles*/
+GtkWindow#homescreen {
+  background-image: url("background_1.png");
+  background-repeat: no-repeat;
+}
+
+GtkNotebook GtkEventBox {
+  border-color: black;
+  border-width: .5px;
+  border-style: solid;
+  margin: 25px;
+  padding: 25px;
+}
+
+GtkNotebook GtkEventBox GtkLabel {
+  border-radius: 10%;
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+GtkStack > GtkBox > GtkGrid#numbers_table > GtkLabel {
+  border-radius: 10%;
+  font-weight: bold;
+  font-size: large;
+}
+
+/* Single widget styles*/
+
+GtkImage#grandma_gif {
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  transition: 500ms ease-in;
+}
+
+GtkGrid#numbers_table {
+  border-color: black;
+  border-width: .5px;
+  border-style: solid;
+}
+
+GtkLabel#new_game_answer {
+  font-weight: bold;
+  color: red;
+}
+
+GtkLabel#new_game_label, GtkLabel#chat_label {
+  font-weight: bold;
+}
+
+GtkLabel#new_game_title,
+GtkLabel#numbers_table_label,
+GtkLabel#end_game_msg,
+GtkLabel#end_game_winner,
+GtkLabel#dialog_title {
+  font-weight: bold;
+  font-size: large;
+}
+
+GtkTextView#server_tv, GtkTextView#chat_tv {
+  font-size: medium;
+}
+
+GtkLabel#table-label-picked {
+  background-color: yellow;
+  color: red;
+  transition: 250ms ease-in;
+}
+
+GtkLabel#table-label-unpicked {
+  background-color: transparent;
+  color: black;
+  transition: 250ms ease-in;
+}
+
+GtkLabel#wait_players_label {
+  font-weight: bold;
+  font-size: large;
+}
