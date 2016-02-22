@@ -30,13 +30,11 @@
 /**
  * VPS address
  */
-#define SERVER_ADDRESS "51.254.220.123"
+#define SERVER_ADDRESS "localhost"
 /**
  * Listening port on VPS
  */
-#define SERVER_PORT 1723
-// #define SERVER_ADDRESS "localhost"
-// #define SERVER_PORT 3456
+#define SERVER_PORT 3456
 
 /**
  * CSS file path
